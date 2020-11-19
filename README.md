@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Liebault</h1>
 <h3 align="center">A passionate junior developer</h3>
 
-<head>
+<!-- <head>
   <style>
     body {
       background-color: white;
@@ -20,7 +20,7 @@
       flex: 0 0 25%;
     }
   </style>
-</head>
+</head> -->
 
 <p>
   <img
