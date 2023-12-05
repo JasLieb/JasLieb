@@ -4,11 +4,9 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jaslieb&label=Profile%20views&color=0e75b6&style=flat" alt="jaslieb" /> </div>
 <div style="margin: 5% 0;">
 
-🔭 I’m currently working in [SIMSOFT INDUSTRY](https://www.simsoft-industry.com/)
+🔭 I’m currently working at [Spix Industry](https://www.spix-industry.com)
 
 👨‍💻 All of my projects are available [on Github profile](https://github.com/JasLieb?tab=repositories)
-
-🚀 All of my projects in production are available [on my Github page](https://jaslieb.github.io/)
 
 📄 Know about my experiences [over here on LinkedIn](https://www.linkedin.com/in/jason-liebault/)
 
