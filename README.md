@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Jason Liebault</h1>
-<h3 align="center">A versatile developer from Touloues</h3>
+<h3 align="center">A versatile developer from Toulouse</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jaslieb&label=Profile%20views&color=0e75b6&style=flat" alt="jaslieb" /> </div>
 <div style="margin: 5% 0;">
 
-🔭 I’m currently working at [Spix Industry](https://www.spix-industry.com)
+🔭 I’m not currently working for a company. Recruiters, feel free to reach me about new opportunities !
 
 👨‍💻 All of my projects are available [on Github profile](https://github.com/JasLieb?tab=repositories)
 
