@@ -4,7 +4,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jaslieb&label=Profile%20views&color=0e75b6&style=flat" alt="jaslieb" /> </div>
 <div style="margin: 5% 0;">
 
-🔭 I’m not currently working for a company. Recruiters, feel free to reach me about new opportunities !
+🔭 I’m not currently working for a company. Recruiters, [have a look here](https://jaslieb.github.io/) and feel free to reach me about new opportunities !
 
 👨‍💻 All of my projects are available [on Github profile](https://github.com/JasLieb?tab=repositories)
 
