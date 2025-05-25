@@ -4,7 +4,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jaslieb&label=Profile%20views&color=0e75b6&style=flat" alt="jaslieb" /> </div>
 <div style="margin: 5% 0;">
 
-🔭 I’m not currently working for a company. Recruiters, [have a look here](https://jaslieb.github.io/) and feel free to reach me about new opportunities !
+🔭 I’m currently working for 5 Degres in Toulouse
 
 👨‍💻 All of my projects are available [on Github profile](https://github.com/JasLieb?tab=repositories)
 
@@ -51,6 +51,18 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="64" height="64" /> </a>
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="64" height="64" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"
+            width="64" height="64" />
+    </a>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"
+            width="64" height="64" />
+    </a>
+    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ"
+            width="64" height="64" />
     </a>
 </div>
 
